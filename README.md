@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi here is windsgo 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=windsgo&show_icons=true" />
 
+　　windsgo 的 GitHub 是怎么回事呢？ windsgo 相信大家都很熟悉，但是 windsgo 的 GitHub 是怎么回事呢，下面就让小编带大家一起了解吧~
 <!--
 **windsgo/windsgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
